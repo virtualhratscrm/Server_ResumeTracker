@@ -12,10 +12,10 @@ public class PostgresResumeDao implements ResumeDao{
     @Autowired
     private JdbcTemplate template;
 
-    /// get all
-    /// get one by id
-    /// create job seeker
-    /// edit job seeker
-    /// remove job seeker
+    /// get all - login to use
+    /// get one by id - login to use
+    /// create job seeker - info from react form page
+    /// edit job seeker - Admin login to use
+    /// remove job seeker - Admin login to use
 
 }
