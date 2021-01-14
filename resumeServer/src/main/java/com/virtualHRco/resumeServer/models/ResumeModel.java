@@ -50,4 +50,12 @@ public class ResumeModel {
     private Date date;
 
 
+    //// info not in form but needed in db
+    /// working with recruiter x
+    /// resume sent to
+    /// follow up email sent
+    /// notes section
+    /// in progress / background check yes/no .... 
+
+
 }
